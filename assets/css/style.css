@@ -165,8 +165,8 @@ h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #291f29;
-  opacity:0.6;
+  background: #4D3A4D;
+  
 }
 
 #header.header-top .social-links,
@@ -242,7 +242,7 @@ h6 {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 400;
-  color: #cc66cc;
+  color: #FAAAFA;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -278,7 +278,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #cc66cc;
+  color: #FC97FC;
 }
 
 /**
@@ -374,7 +374,7 @@ section.section-show {
 }
 
 section .container {
-  background: #AA98A9;
+  background: #80717F;
   padding: 30px;
 }
 
@@ -396,7 +396,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #483248;
+  color: #000000;
   font-family: "Poppins", sans-serif;
 }
 
@@ -545,8 +545,8 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.08);
-  transition: ease-in-out 0.3s;
+  background: #736572;
+  
 }
 
 .Qualities .icon-box i {
@@ -588,7 +588,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #483248;
+  color: #000000;
   font-family: "Poppins", sans-serif;
 }
 .Education-title h2::after {
@@ -619,7 +619,7 @@ section .container {
 
 .Education .Education-item h5 {
   font-size: 16px;
-  background: rgba(255, 255, 255, 0.15);
+  background: #736572;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -655,6 +655,7 @@ h6 {
   font-weight: bold;
   font-size: 24px;
   padding-top: 75px;
+  color : #FFFFFF;
 }
 
 .pact {
